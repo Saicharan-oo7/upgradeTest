@@ -3,5 +3,6 @@ pwd
 cd ../
 mkdir softwaretest
 cd softwaretest
-cp  /home/pi  /home/pi/softwaretest
+cp -r /home/pi  /home/pi/softwaretest
 echo “Welcome to the Linux family.”
+
