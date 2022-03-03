@@ -6,5 +6,8 @@ cd ../
 mkdir softwaretest
 cd softwaretest
 cp -r /home/pi/upgradeTest/VigilanceMonitorQml  /home/pi/softwaretest
-echo “Welcome to the Linux family.”
+echo "software upgrading please wait.."
+echo "rebooting the system"
+sudo reboot
+
 
