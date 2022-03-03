@@ -1,5 +1,7 @@
 #! /bin/bash
+
 pwd
+chmod +x VigilanceMonitorQml
 cd ../
 mkdir softwaretest
 cd softwaretest
